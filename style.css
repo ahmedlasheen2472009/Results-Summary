@@ -167,7 +167,7 @@ a {
 .container .content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    margin-top: 30%;
+    margin-top: 31%;
     margin-left: 50%;
     overflow: hidden;
     transform: translate(-50%, -50%);
