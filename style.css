@@ -167,10 +167,10 @@ a {
 .container .content {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    margin-top: 20%;
+    margin-top: 30%;
     margin-left: 50%;
     overflow: hidden;
-    transform: translate(-50%, -30%);
+    transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -30%);
     -moz-transform: translate(-50%, -30%);
     -ms-transform: translate(-50%, -30%);
